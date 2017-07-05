@@ -9,4 +9,4 @@ sorely missed ``-skip-tables`` CLI flag to make life just a tiny bit easier.
 Installation
 ------------
 
-    go get https://github.com/xrstf/mysqldump
+    go get https://github.com/xrstf/mysqldumper
